@@ -1,2 +1,0 @@
-funcsProject1.py  funcs_tests.py  in2		    out1  skaterInst
-funcs.py	  in1		  listmyfolder.txt  out2
